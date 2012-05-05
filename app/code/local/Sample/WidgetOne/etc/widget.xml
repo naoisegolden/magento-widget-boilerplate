@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<widgets>
+    <widgetone_digg type="widgetone/digg">
+        <name>Bookmark: Digg</name>
+        <description type="desc">Adds a simple "You Digg?" link</description>
+    </widgetone_digg>
+</widgets>

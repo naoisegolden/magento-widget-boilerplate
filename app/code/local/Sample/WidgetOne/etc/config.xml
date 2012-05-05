@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Sample_WidgetOne>
+            <version>0.0.1</version>
+        </Sample_WidgetOne>
+    </modules>
+    <global>
+        <helpers>
+            <widgetone>
+                <class>Sample_WidgetOne_Helper</class>
+            </widgetone>
+        </helpers>
+        <blocks>
+             <widgetone>
+                <class>Sample_WidgetOne_Block</class>
+             </widgetone>
+        </blocks>
+    </global>
+</config>
